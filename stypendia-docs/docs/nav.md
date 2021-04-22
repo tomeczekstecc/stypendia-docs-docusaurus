@@ -1,0 +1,18 @@
+---
+title: 'Menu'
+order: 2
+---
+
+# Główne menu
+
+Główne menu ma za zadanie:
+
+- w łatwy sposób zapewniać nawigację pomiędzy modułami,
+- informować o aktualnym miejscu, w którym znajduje się użytkownik
+- zawierać informacje o dostępnych opcjach
+
+![](../src/images/styp/menu.png)
+
+# Dostępność
+
+W celu zwiększenia dostępności elementy menu są duże, kontrastujące i posiadają opis.
